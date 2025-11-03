@@ -24,4 +24,4 @@ Delkin SATA Technical Guide ( https://www.delkin.com/blog/sata-serial-ata/ )
 Wikipedia - SATA ( https://es.wikipedia.org/wiki/Serial_ATA )
 
 # Fotografía 
-![SATA POWER 15pines](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/SATA%20Power15pines.jpg) 
+![SATA Power 15 pines](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/SATA%20Power15pines.jpg)
