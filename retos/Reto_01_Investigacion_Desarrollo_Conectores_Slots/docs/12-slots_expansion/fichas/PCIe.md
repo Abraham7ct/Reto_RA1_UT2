@@ -50,3 +50,4 @@ Wikipedia - PCI Express (https://es.wikipedia.org/wiki/PCI_Express)
 
 # Fotografía
 
+![PCIe](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/12-slots_expansion/PCIe%20x1%20-%20x4%20-%20x8%20-%20x16.jpg)
