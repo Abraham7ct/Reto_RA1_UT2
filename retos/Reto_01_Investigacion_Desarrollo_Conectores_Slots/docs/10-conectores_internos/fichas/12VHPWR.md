@@ -21,6 +21,7 @@ GPUs de última generación de NVIDIA (serie RTX 40 y 50) y próximas generacion
 # 🏷️ Fuentes oficiales consultadas
 Corsair 12VHPWR Technical Guide ( https://www.corsair.com/explorer/diy-builder/power-supply-units/evolving-standards-12vhpwr-and-12v-2x6/) 
 ​
+
 Wikipedia - 12VHPWR ( https://es.wikipedia.org/wiki/12VHPWR )
 
 # Fotografía
