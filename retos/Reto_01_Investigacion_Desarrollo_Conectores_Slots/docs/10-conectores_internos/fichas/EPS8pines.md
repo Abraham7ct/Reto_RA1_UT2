@@ -17,4 +17,6 @@ ASRock Technical Wiki ( https://botflakes.de/asrockwiki/guides/whatIs12VEPS/ )
 
 Exxact Technical Support ( https://support.exxactcorp.com/hc/en-us/articles/20180443940119 )
 
-![EPS8pines](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/ATX24pines.jpg)
+# Fotografía
+
+![EPS8pines](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/EPS8pines.jpg)
