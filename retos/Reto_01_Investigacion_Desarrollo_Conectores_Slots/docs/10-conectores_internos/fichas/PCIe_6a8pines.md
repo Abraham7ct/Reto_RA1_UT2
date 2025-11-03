@@ -22,4 +22,4 @@ Jon Gerow PCIe Analysis ( http://jongerow.com/PCIe/index.html )
 Corsair GPU Power Guide ( https://www.corsair.com/us/en/explorer/diy-builder/power-supply-units/individual-8-pin-vs-pigtail-connectors-for-gpus/ ) 
 
 # Fotografía
-![PCIe 6 a 8 pines](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/PCIe%206a8%20pines.jpg)
+![PCIe 6a8 pines](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/PCIe%206a8%20pines.jpg)
