@@ -18,3 +18,6 @@ Alimentación esencial de la placa base en todos los PC de escritorio modernos. 
   
 - Especificaciones técnicas de implementación del conector ATX 24 pines​
 eTechnophiles ATX Pinout Guide (https://www.etechnophiles.com/atx-power-supply-connector-pinout/ ) 
+
+## Fotos
+![ATX24pines](/assets/img/10-conectores_internos/ATX24pines.jpg)
