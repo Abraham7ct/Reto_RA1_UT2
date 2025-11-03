@@ -25,4 +25,4 @@ Corsair 12VHPWR Technical Guide ( https://www.corsair.com/explorer/diy-builder/p
 Wikipedia - 12VHPWR ( https://es.wikipedia.org/wiki/12VHPWR )
 
 # Fotografía
-[!12VHPWR](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/12VHPWR%20-%2012V-2x6.jpg)
+![12VHPWR](retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/12VHPWR%20-%2012V-2x6.jpg)
