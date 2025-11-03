@@ -19,4 +19,4 @@ Exxact Technical Support ( https://support.exxactcorp.com/hc/en-us/articles/2018
 
 # Fotografía
 
-![EPS8pines](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/EPS8pines.jpg)
+![EPS8pines](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/EPS%208%20pines.jpg)
