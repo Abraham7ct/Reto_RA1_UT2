@@ -25,5 +25,8 @@ SATA-IO: Fast Just Got Faster White Paper ( https://sata-io.org/system/files/mem
 
 SATA-IO Naming Guidelines ( https://sata-io.org/developers/sata-naming-guidelines ) - Convenciones oficiales de nomenclatura SATA​
 
+# Fotografía 
+![SATA](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/11-conectores_datos/SATA.jpg)
+
 # Fotografía
 ![SATA](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/11-conectores_datos/SATA.jpg)
