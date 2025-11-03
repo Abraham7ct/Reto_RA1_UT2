@@ -22,3 +22,6 @@ Alimentación estándar para discos duros SATA, SSDs de 2.5", unidades ópticas,
 Delkin SATA Technical Guide ( https://www.delkin.com/blog/sata-serial-ata/ )
 
 Wikipedia - SATA ( https://es.wikipedia.org/wiki/Serial_ATA )
+
+# Fotografía 
+
