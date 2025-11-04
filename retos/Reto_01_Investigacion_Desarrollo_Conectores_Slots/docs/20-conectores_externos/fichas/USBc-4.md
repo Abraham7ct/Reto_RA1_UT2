@@ -29,3 +29,4 @@ USB-IF USB4 V2.0 Release (https://www.eetasia.com/usb-if-releases-usb4-specs/) -
 
 # Fotografía
 
+![USBc-4](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/USB-C%20-%20USB4.jpg)
