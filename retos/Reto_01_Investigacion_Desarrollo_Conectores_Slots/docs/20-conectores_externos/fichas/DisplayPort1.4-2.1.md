@@ -50,3 +50,4 @@ DisplayNinja DP 2.1 Guide (https://www.displayninja.com/what-is-displayport-2-1/
 
 # Fotografía 
 
+![DP2.1vs1.4](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/DP2.1%20vs%201.4.jpg)
