@@ -7,7 +7,8 @@
 | Materiales comp.   |Relación fuerza-peso excepcional​, altamente duradero, excelente conducción térmica y eléctrica                                               |Costo muy elevado​, fragilidad ante impactos directos​, dificultad en reciclaje (si es termoestable)​, complejidad en fabricación                                            |Chasis avanzados y premium, PCs de alto rendimiento para entusiastas, computadoras industriales de misión crítica                                                  |
 
 
-Enlaces consultados: 
+Enlaces consultados:
+
 Esgamingpc: https://www.esgamingpc.com/es/blog-the-complete-guide-to-pc-case-materials-steel-aluminum-and-tempered-glass.html
 
 Sinsmart: https://www.sinsmarts.com/es/blog/analysis-of-the-materials-and-characteristics-of-industrial-computer-chassis/
