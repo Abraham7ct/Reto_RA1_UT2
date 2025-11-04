@@ -35,4 +35,4 @@ Wikipedia - USB Hardware (https://es.wikipedia.org/wiki/USB_hardware) - Dimensio
 
 # Fotografía
 
-![USBc-4](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/Usb%202.0%20y%203.0.png)
+![USBa2.0](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/Usb%202.0%20y%203.0.png)
