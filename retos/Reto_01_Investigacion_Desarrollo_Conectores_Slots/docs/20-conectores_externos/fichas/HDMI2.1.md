@@ -40,4 +40,5 @@ HDMI Forum Press Release (https://www.hdmi.org/download/pressfileid/60) - Anunci
 
 # Fotografía
 
+![HDMI2.1](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/HDMI%202.1%20.jpg)
 
