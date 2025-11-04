@@ -37,3 +37,5 @@ CMD USB Identification Guide (https://www.cmd-ltd.com/advice-centre/usb-chargers
 Wikipedia - USB Hardware (https://es.wikipedia.org/wiki/USB_hardware) 
 
 # Fotografía
+
+![USBb](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/UsbB.jpg)
