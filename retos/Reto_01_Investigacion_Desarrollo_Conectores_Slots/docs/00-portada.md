@@ -5,4 +5,4 @@
 **Alumno/a:** Abraham Aparicio Moreno 
 **Curso:** 2025/26
 
-![Portada](../assets/img/00-portada/portada.png "Portada")
+![Portada](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/00-portada/PortadaSLOTS.png)
