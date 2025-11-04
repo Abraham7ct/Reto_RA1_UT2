@@ -9,5 +9,7 @@
 
 Enlaces consultados: 
 Esgamingpc: https://www.esgamingpc.com/es/blog-the-complete-guide-to-pc-case-materials-steel-aluminum-and-tempered-glass.html
+
 Sinsmart: https://www.sinsmarts.com/es/blog/analysis-of-the-materials-and-characteristics-of-industrial-computer-chassis/
+
 xcellentcomposites: https://es.xcellentcomposites.com/blogs/knowledge-hub/what-is-carbon-fiber-reinforced-composite-a-deep-dive-into-mian-carbon-fibre-products
