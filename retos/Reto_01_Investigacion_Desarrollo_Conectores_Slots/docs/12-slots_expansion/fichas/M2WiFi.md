@@ -21,4 +21,5 @@ Wikipedia - M.2 (https://es.wikipedia.org/wiki/M.2) - Tabla de keying oficial co
 
 Newegg M.2 WiFi Adapter Listing ( https://www.newegg.ca/p/1B0-01B8-000C0 ) - Especificaciones de adaptadores M.2 Key E​
 
+# Fotografía
 ![M.2WiFi](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/12-slots_expansion/M.2%20slot%20para%20WiFi%20-%20Bluetooth%20.jpg)
