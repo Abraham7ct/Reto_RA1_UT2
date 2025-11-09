@@ -3,7 +3,7 @@
 **Formatos elegidos:** Full Tower vs Mini tower
 
 ## Diagrama
-![Diagrama](../TiposTorres.png)
+![Diagrama](../Reto_02_Analisis_Chasis/TiposTorres.png)
 
 ## Impacto del tamaño
 - **Capacidad de componentes:**
