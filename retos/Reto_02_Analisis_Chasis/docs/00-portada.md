@@ -7,3 +7,5 @@
 **Fecha:** 7/11/2025 
 
 **Repositorio:** [(URL repo)](https://github.com/Abraham7ct/Reto_RA1_UT2/tree/main/retos/Reto_02_Analisis_Chasis)
+
+![Portada](../Portada%20Reto2.png)
