@@ -1,9 +1,5 @@
 # Reto 02 — Análisis de Chasis (UT2 · RA1)
 
-> **Instrucciones:** Copia aquí el contenido final de cada sección (puedes mantener los enlaces relativos a imágenes).
-
-# Reto 02 — Análisis de Chasis (UT2 · RA1)
-
 **Alumno/a:** Aparicio Moreno, Abraham
 
 **Grupo:** 1ª ASIR
