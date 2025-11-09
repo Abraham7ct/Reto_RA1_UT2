@@ -2,7 +2,18 @@
 
 > **Instrucciones:** Copia aquí el contenido final de cada sección (puedes mantener los enlaces relativos a imágenes).
 
-COPIAR: Portada, indiccee y intorducción
+# Reto 02 — Análisis de Chasis (UT2 · RA1)
+
+**Alumno/a:** Aparicio Moreno, Abraham
+
+**Grupo:** 1ª ASIR
+
+**Fecha:** 7/11/2025 
+
+**Repositorio:** [(URL repo)](https://github.com/Abraham7ct/Reto_RA1_UT2/tree/main/retos/Reto_02_Analisis_Chasis)
+
+![Portada](../Portada%20Reto2.png)
+
 
 ## 1) Tabla comparativa de materiales
 | Material            | Ventajas (3–4)                               | Desventajas (2–3)                          | Aplicaciones comunes (ejemplos)                  |
