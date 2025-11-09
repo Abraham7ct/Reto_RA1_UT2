@@ -11,6 +11,12 @@
 ![Portada](../Portada%20Reto2.png)
 
 
+# Introducción
+
+En este documento analizamos **materiales** (acero SECC, aluminio, plástico, vidrio templado y compuestos) y **formatos** de chasis (p. ej., Torre Completa vs Mini Torre), para entender cómo afectan a **capacidad de componentes**, **refrigeración** y **experiencia de usuario**. Finalmente, resolvemos un **caso práctico** de recomendación.
+
+
+
 ## 1) Tabla comparativa de materiales
 | Material            | Ventajas (3–4)                               | Desventajas (2–3)                          | Aplicaciones comunes (ejemplos)                  |
 |--------------------|-----------------------------------------------|--------------------------------------------|--------------------------------------------------|
